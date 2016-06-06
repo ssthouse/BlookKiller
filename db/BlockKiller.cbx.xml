@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="BlockKiller">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Block_Killer|Display_Ctrl:display_ctrl|NUMBER_Display:NUMBER_Display_S_U|NUM_Rom:NUM_Rom_Display|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_2b91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Block_Killer|Display_Ctrl:display_ctrl|SCORE_Display:SCORE_Display_1|SCORE_Rom:SCORE_Rom_Display|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_d691.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Block_Killer|Display_Ctrl:display_ctrl|lpm_divide:Div1" CBX_FILE_NAME="lpm_divide_mhm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Block_Killer|Score_Disp:score_disp|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_c8m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Block_Killer|Display_Ctrl:display_ctrl|NUMBER_Display:NUMBER_Display_S_T|NUM_Rom:NUM_Rom_Display|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_2b91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Block_Killer|Display_Ctrl:display_ctrl|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_nhm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Block_Killer|Score_Disp:score_disp|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_ohm.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

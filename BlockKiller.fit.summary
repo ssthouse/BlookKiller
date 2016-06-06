@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon Jun 06 11:09:41 2016
+Quartus II Version : 9.0 Build 132 02/25/2009 SJ Full Version
+Revision Name : BlockKiller
+Top-level Entity Name : Block_Killer
+Family : Cyclone III
+Device : EP3C16F484C6
+Timing Models : Final
+Total logic elements : 3,362 / 15,408 ( 22 % )
+    Total combinational functions : 3,355 / 15,408 ( 22 % )
+    Dedicated logic registers : 360 / 15,408 ( 2 % )
+Total registers : 360
+Total pins : 27 / 347 ( 8 % )
+Total virtual pins : 0
+Total memory bits : 5,760 / 516,096 ( 1 % )
+Embedded Multiplier 9-bit elements : 0 / 112 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
